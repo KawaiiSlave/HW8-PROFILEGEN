@@ -1,1 +1,1 @@
-# HW8-PROFILEGEN
+This application takes user prompted info, and generates html based on that info to display it in addition with an axios call to github.

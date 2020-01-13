@@ -1,0 +1,22 @@
+{
+  "name": "hw8-profilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "HW8-profilegenerator"
+  },
+  "author": "Tyler Goodman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "electron": "^7.1.8",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^7.0.3",
+    "util": "^0.12.1"
+  }
+}
