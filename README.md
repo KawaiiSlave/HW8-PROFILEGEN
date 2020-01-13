@@ -12,4 +12,4 @@ This application uses HTML, CSS, Javascript, and Node together to complete its t
 
 ##Sample Picture
 																									
-![Image of Profile Generator](https://imgur.com/a/yM0DsqJ)
+![ProfileGenerator](https://imgur.com/a/yM0DsqJ)
