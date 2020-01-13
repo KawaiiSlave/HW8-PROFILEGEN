@@ -12,4 +12,5 @@ This application uses HTML, CSS, Javascript, and Node together to complete its t
 
 ## Sample Picture
 																									
+![profilegenerator](https://user-images.githubusercontent.com/56096190/72234000-3e006f00-3590-11ea-8613-97ba286a84b3.png)
 
